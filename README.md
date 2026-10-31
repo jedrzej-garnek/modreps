@@ -1,7 +1,7 @@
 # modreps
 
 `modreps` is a small SageMath package for finite-dimensional modular
-representations of matrix algebras over finite fields.
+representations of matrix algebras over finite fields. The package was written by Codex.
 
 The convention matches Magma's matrix modules: vectors are row vectors and
 generator matrices act on the right.  A representation is defined by a nonempty
